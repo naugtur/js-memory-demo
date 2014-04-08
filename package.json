@@ -1,0 +1,11 @@
+{
+  "name": "js-memory-demo",
+  "version": "0.0.1",
+  "description": "Simple tests demonstrating memory impact of certain bits of code",
+  "main": "index.js",
+  "author": "naugtur",
+  "license": "GPLv2",
+  "dependencies": {
+    "profy": "0.0.6"
+  }
+}

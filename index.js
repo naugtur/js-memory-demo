@@ -116,5 +116,4 @@
 
     zlog(mem.stop());
 
-    setTimeout(console.log, 5000);
 })();

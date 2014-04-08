@@ -101,7 +101,9 @@
             mem.log('scope');
         })();
         break;
-
+    default:
+        console.log('no such test.');
+        break;
 
     }
 

@@ -1,4 +1,4 @@
-js-memory-demo
+Legacy demos for node 0.10
 ==============
 
 Simple tests demonstrating memory impact of certain bits of code
